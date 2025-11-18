@@ -12,48 +12,44 @@ Local Shorts'는 위치를 기반으로 한 sns플랫폼입니다.
   
 
 ## 📂   프로젝트 기능
-<details>
-<summary> 로그인, 회원가입, 마이페이지 구현 </summary>  
-<img width="160"  alt="image" src="https://github.com/user-attachments/assets/54d58be1-dc77-4db0-995a-404279bf57f2" />
-<img width="180"  alt="image" src="https://github.com/user-attachments/assets/3efafebb-6fe8-445e-ac51-41bd60211737" />
-</details>
-
-<details>
-<summary> GoogleMap API 연동 및 지도 데이터 처리 </summary>  
-<img width="180" alt="image" src="https://github.com/user-attachments/assets/9d942a68-de62-446a-aec4-ac9d343fdaf3" />
-
-</details>
-
-<details>
-<summary> 장소별 영상 업로드 기능 구현 </summary>  
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/17803fea-16ff-4b19-ad16-3caf9f297d43" />
-
-</details>
-
-<details>
-<summary>  </summary>  
-
-</details>
-
-<details>
-<summary>  </summary>  
-
-</details>
-
-<details>
-<summary>  </summary>  
-
-</details>
-- 
-- 영상 스트리밍 기능 구현
-- 영상 목록(DB) MySQL연동
-- 
-- 공개범위 설정 기능 구현
-- 피드(영상), 마이페이지 CRUD 기능 개발
+- 로그인, 회원가입, 마이페이지
 - 해시태그 및 해시태그 검색 기능
 - 리액트를 활용한 웹 페이지 구현
-알림 기능
 - 사운드태그(주파수 인식 기반 위치 탐지) 기능 구현
+- GoogleMap API 연동 및 지도 데이터 처리
+- 장소별 영상 업로드, 공개범위 설정, 해시태그 기능 구현
+- 피드, 마이페이지 CRUD
+- 영상 스트리밍 기능 구현, 영상 목록(DB) MySQL연동
+
+<img width="180"  alt="image" src="https://github.com/user-attachments/assets/3efafebb-6fe8-445e-ac51-41bd60211737" />
+
+
+
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/9d942a68-de62-446a-aec4-ac9d343fdaf3" />
+
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/17803fea-16ff-4b19-ad16-3caf9f297d43" />
+
+
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/8051d4d8-47b9-4aa1-8753-f1909822dbf5" />
+
+<img width="180"  alt="image" src="https://github.com/user-attachments/assets/71db970e-0f6f-49fd-a12a-85ad9edef72c" />
+
+
+<img width="180" alt="스크린샷_20221116_105407" src="https://github.com/user-attachments/assets/c93c20a2-c89a-4002-8bee-da163f2b6c58" />
+<img width="180"  alt="스크린샷_20221116_105857" src="https://github.com/user-attachments/assets/3358884a-6ed6-474a-a8c1-5bf9ba0b68b5" />
+
+
+
+
+
+
+
+
+
+
+ 
+
 
 
 
